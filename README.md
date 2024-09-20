@@ -1,4 +1,4 @@
-# 2425-smx2-a0-repoejemplo
+# Lenguaje
 
 # Encabezado/Titulo
 
