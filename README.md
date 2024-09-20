@@ -34,3 +34,6 @@ Texto en *cursiva* y este también esta en _Cursiva_
 - Elemento 2
 + Elemento 3
 
+----------------------
+
+``Para que aparezcan los #``
