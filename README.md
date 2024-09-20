@@ -11,3 +11,8 @@
 ##### H5
 
 ###### H6
+
+----------------------
+
+Texto en *Negrita*
+Texto en _cursiva_
