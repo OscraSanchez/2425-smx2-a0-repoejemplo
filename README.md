@@ -1,3 +1,13 @@
 # 2425-smx2-a0-repoejemplo
-Primer repositorio de SMX2 de ejemplo de uso de la aplicación
-Primer cambio en local
+
+# Encabezado/Titulo
+
+## Encabezado2/Titulo2
+
+### Encabezado3/titulo3
+
+#### H4
+
+##### H5
+
+###### H6
