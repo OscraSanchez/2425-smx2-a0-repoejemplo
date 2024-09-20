@@ -1,4 +1,4 @@
-# Lenguaje Web
+# Nomenclaturas Web
 
 # Encabezado/Titulo
 
@@ -38,7 +38,17 @@ Texto en *cursiva* y este también esta en _Cursiva_
 
 ``Para que aparezcan los #``
 
+```HTML
+<html>
+  <html>
+  </html>
+</html>
+```
+
 ----------------------
 [Enlace a la Web del cole](https://www.fje.edu/ca/fje)
 
 [Enlace a la Web del cole](https://www.fje.edu/ca/fje "Texto Opcional")
+
+![deadpool](https://github.com/OscraSanchez/2425-smx2-a0-repoejemplo/blob/main/deadpool.jpg "Deadpool")
+
