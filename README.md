@@ -1,4 +1,4 @@
-# Lenguaje
+# Lenguaje Web
 
 # Encabezado/Titulo
 
@@ -37,3 +37,8 @@ Texto en *cursiva* y este también esta en _Cursiva_
 ----------------------
 
 ``Para que aparezcan los #``
+
+----------------------
+[Enlace a la Web del cole](https://www.fje.edu/ca/fje)
+
+[Enlace a la Web del cole](https://www.fje.edu/ca/fje "Texto Opcional")
