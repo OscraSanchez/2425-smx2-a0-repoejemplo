@@ -50,5 +50,5 @@ Texto en *cursiva* y este también esta en _Cursiva_
 
 [Enlace a la Web del cole](https://www.fje.edu/ca/fje "Texto Opcional")
 
-![deadpool](https://github.com/OscraSanchez/2425-smx2-a0-repoejemplo/blob/main/deadpool.jpg "Deadpool")
+![deadpool](https://github.com/OscraSanchez/2425-smx2-a0-repoejemplo/blob/main/deadpool.jpg "Puto")
 
