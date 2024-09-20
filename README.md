@@ -14,6 +14,8 @@
 
 ----------------------
 
-Texto en *Negrita*
+Texto en *Negrita* y este también en __negrita__
 			
-Texto en _cursiva_
+Texto en **cursiva** y este también esta en _Cursiva_
+
+**Texto con Negrita y _Cursiva_**
