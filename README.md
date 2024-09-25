@@ -54,4 +54,20 @@ ______________________
 ![deadpool](https://github.com/OscraSanchez/2425-smx2-a0-repoejemplo/blob/main/deadpool.jpg "Puto")
 
 ----------------------
+|Columna 1 |Columna 2 | Columna 3|
+|col 3 es |right.aligned|$1600|
+|col 2 es |centered|$12|
+|zebra stripes |son limpias|$1|
 
+
+---------------------------
+
+
+|Columna 1 |Columna 2 | Columna 3|
+|--------------|--------|----------|
+
+---------------------------
+
+
+|Columna 1 |Columna 2 | Columna 3|
+|--------------|:--------:|----------:|
