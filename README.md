@@ -45,10 +45,13 @@ Texto en *cursiva* y este también esta en _Cursiva_
 </html>
 ```
 
-----------------------
+______________________
+
 [Enlace a la Web del cole](https://www.fje.edu/ca/fje)
 
 [Enlace a la Web del cole](https://www.fje.edu/ca/fje "Texto Opcional")
 
 ![deadpool](https://github.com/OscraSanchez/2425-smx2-a0-repoejemplo/blob/main/deadpool.jpg "Puto")
+
+----------------------
 
