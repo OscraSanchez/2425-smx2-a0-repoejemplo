@@ -53,6 +53,7 @@ ______________________
 
 ![deadpool](https://github.com/OscraSanchez/2425-smx2-a0-repoejemplo/blob/main/deadpool.jpg "Puto")
 
+<img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/Tic.webp" width="40" height="30">|
 ----------------------
 |Columna 1 |Columna 2 | Columna 3|
 |------------|:---------:|---------:|
@@ -72,3 +73,4 @@ ______________________
 
 |Columna 1 |Columna 2 | Columna 3|
 |--------------|:--------:|----------:|
+
